@@ -1,0 +1,8 @@
+c:\users\familia\documents\visual studio 2015\Projects\testeGETPOST\testeGETPOST\bin\Debug\testeGETPOST.exe.config
+c:\users\familia\documents\visual studio 2015\Projects\testeGETPOST\testeGETPOST\bin\Debug\testeGETPOST.exe
+c:\users\familia\documents\visual studio 2015\Projects\testeGETPOST\testeGETPOST\bin\Debug\testeGETPOST.pdb
+c:\users\familia\documents\visual studio 2015\Projects\testeGETPOST\testeGETPOST\bin\Debug\Newtonsoft.Json.dll
+c:\users\familia\documents\visual studio 2015\Projects\testeGETPOST\testeGETPOST\bin\Debug\Newtonsoft.Json.xml
+c:\users\familia\documents\visual studio 2015\Projects\testeGETPOST\testeGETPOST\obj\Debug\testeGETPOST.csprojResolveAssemblyReference.cache
+c:\users\familia\documents\visual studio 2015\Projects\testeGETPOST\testeGETPOST\obj\Debug\testeGETPOST.exe
+c:\users\familia\documents\visual studio 2015\Projects\testeGETPOST\testeGETPOST\obj\Debug\testeGETPOST.pdb
